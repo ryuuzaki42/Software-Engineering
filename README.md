@@ -68,6 +68,13 @@
 - Linux
   - [GuiaFoca Linux Para Iniciantes e Intermediários](https://alexgalhardo.vercel.app/pdfs/guia-foca-linux-iniciantes.pdf)
   - [GuiaFoca Linux Para Avançados](https://alexgalhardo.vercel.app/pdfs/guia-foca-linux-avancados.pdf)
+- YouTube
+  - [Computer Science - Crash Course](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+  - [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+  - [Linguagem C - Curso Completo](https://www.youtube.com/watch?v=GiCt0Cwcp-U&list=PL8iN9FQ7_jt4DJbeQqv--jpTy-2gTA3Cp)
+  - [CoreDumped](https://www.youtube.com/@CoreDumpped)
+  - [Curso em Video](https://www.youtube.com/c/CursoemV%C3%ADdeo)
+  - [CodigoFonteTV](https://www.youtube.com/@codigofontetv)
 
 ## The 4 Steps to Competence
 
